@@ -20,7 +20,7 @@
     "lucide-react": "^0.400.0",
     "clsx": "^2.1.1"
   },
-    "devDependencies": {
+  "devDependencies": {
     "typescript": "^5",
     "@types/node": "^20",
     "@types/react": "^18",
@@ -30,5 +30,5 @@
     "tailwindcss": "^3.4.1",
     "eslint": "^8",
     "eslint-config-next": "14.2.5"
-}
+  }
 }
